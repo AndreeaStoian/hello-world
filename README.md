@@ -8,4 +8,4 @@ This message is brought to you by Stoian Andreea Cristina.
 
 Hey, guess what... you can also add your account avatar (image). It's enough to right click on your avatar where you see it in a page, go to `view image` and copy the link to it.
 Like this:  
-![YOUR-LINK](https://avatars2.githubusercontent.com/u/7242607?s=60&v=4)
+![YOUR-LINK](https://avatars2.githubusercontent.com/u/61582069?s=460&u=2c9e9597de6e820f1a063cdcd4f9c99e46f79fe7&v=4)
